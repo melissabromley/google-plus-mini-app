@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GooglePlusMini</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_current_user">Current User</string>
+    <string name="circles_list_title">Circles</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="choose_account_toast">You must choose an account.</string>
+    <string name="not_online">This app requires a network connection.</string>
+    <string name="invalid_account">Google+ Mini does not have permission to access this account.</string>
+    <string name="title_activity_view_circles">ViewCircles</string>
+    <string name="title_activity_person_in_circle">PersonInCircle</string>
+
+</resources>

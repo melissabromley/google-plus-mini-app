@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.googleplusmini.FriendProfileActivity"
+    xmlns:GooglePlusMini="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/gmail"
+        android:icon="@drawable/ic_menu_send"
+        android:title="tab"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/menu_item_sign_out"
+        android:title="@string/sign_out"
+        GooglePlusMini:showAsAction="collapseActionView"/>
+</menu>
